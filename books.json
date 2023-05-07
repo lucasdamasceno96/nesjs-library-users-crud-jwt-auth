@@ -1,0 +1,44 @@
+[
+  {
+    "title": "In Search of Lost Time",
+    "description": "The narrator recalls his childhood.",
+    "author": "Marcel Proust",
+    "price": 90,
+    "category": "Classic"
+  },
+  {
+    "title": "Ulysses",
+    "description": "Ulysses chronicles the passage of Leopold Bloom through Dublin",
+    "author": "James Joyce",
+    "price": 80,
+    "category": "Crime"
+  },
+  {
+    "title": "Don Quixote",
+    "description": "A retired country gentleman in his fifties, lives in an unnamed section of La Mancha",
+    "author": "Miguel de Cervantes",
+    "price": 100,
+    "category": "Adventure"
+  },
+  {
+    "title": " One Hundred Years of Solitude",
+    "description": "One of the 20th century's enduring works",
+    "author": "Gabriel Garcia Marquez",
+    "price": 60,
+    "category": "Classic"
+  },
+  {
+    "title": " The Great Gatsby ",
+    "description": "The novel chronicles an era that Fitzgerald himself dubbed the Jazz Age",
+    "author": "F. Scott Fitzgerald",
+    "price": 75,
+    "category": "Fantasy"
+  },
+  {
+    "title": "Moby dick",
+    "description": "The saga of Captain Ahab and his monomaniacal pursuit of the white whale.",
+    "author": "Herman Melville",
+    "price": 100,
+    "category": "Classic"
+  }
+]
