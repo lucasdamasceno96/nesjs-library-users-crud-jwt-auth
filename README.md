@@ -22,6 +22,13 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+# 💻 Technologies.
+
+* NodeJs
+* NestJs
+* MongoDB
+* Jwt
+
 ## Description
 
 This a restApi used to register books in the mongoDB database. You can register users and do the authentication using the jwt. Check the documentation page.
