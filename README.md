@@ -24,7 +24,34 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This a restApi used to register books in the mongoDB database. You can register users and do the authentication using the jwt. Check the documentation page.
+
+    You have that coonect your mongodbURL app.module.ts
+
+    POST - http://localhost:3000/books/  - Register a book
+    GET - http://localhost:3000/books/ - Get all books data
+    GET - http://localhost:3000/books/_id  - get a book by id
+    PUT - http://localhost:3000/books/_id  - Update a BOOK by id
+    DELETE - http://localhost:3000/books/_id  - Delete a BOOK by id
+    POST - http://localhost:3000/users/  - Register a user 
+{
+    "title": "",
+    "description": "",
+    "author": "",
+    "price": ,
+    "category": ""
+}
+ data info https://thegreatestbooks.org/
+
+       #1 CRUD 
+       #2 Pagination and search
+       #3 Pipes, Validation Error 
+       #4 Authentication, Login/Sign Up, assign JWT and more
+       #5 Authorization, Protect Routes, Current User 
+
+
+*
+
 
 ## Installation
 
@@ -64,10 +91,13 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Prints
+
+![nestjs01](https://user-images.githubusercontent.com/105467049/236688629-f3cb31b4-d24f-4e65-84c9-eacb4dbb2830.png)
+![nestjs02](https://user-images.githubusercontent.com/105467049/236688631-b25c36d3-22a5-473f-af05-01335c494d39.png)
+
